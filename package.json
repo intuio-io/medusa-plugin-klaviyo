@@ -1,6 +1,6 @@
 {
-  "name": "medusa-plugin-klaviyo",
-  "version": "1.0.1",
+  "name": "@intuio/medusa-plugin-klaviyo",
+  "version": "1.0.0",
   "description": "Klaviyo integration plugin for Medusa",
   "main": "src/index.js",
   "scripts": {
@@ -23,6 +23,6 @@
     "klaviyo",
     "medusa"
   ],
-  "author": "Veleston Rato",
-  "license": "ISC"
+  "author": "Intuio - Veleston Rato",
+  "license": "MIT"
 }
