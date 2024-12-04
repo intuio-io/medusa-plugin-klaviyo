@@ -9,7 +9,7 @@ This is where the Medusa Plugin for Klaviyo comes into play. Designed to elimina
 
 ## Installation
 ```javascript
-npm i @intuio/medusa-plugin-klaviyo@v1
+npm i @intuio/medusa-plugin-klaviyo@medusa-v1
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ KLAVIYO_COMPANY_ID : your_klaviyo_company_id
 
 ```javascript
 {
-  resolve: "@intuio/medusa-plugin-klaviyo@v1",
+  resolve: "@intuio/medusa-plugin-klaviyo@medusa-v1",
   options: {
     klaviyo_api_key: process.env.KLAVIYO_API_KEY,
     klaviyo_company_id: process.env.KLAVIYO_COMPANY_ID,
