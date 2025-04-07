@@ -23,7 +23,7 @@
     "klaviyo",
     "medusa"
   ],
-  "author": "Intuio - Veleston Rato",
+  "author": "Intuio Software Labs",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
