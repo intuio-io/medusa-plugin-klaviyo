@@ -73,7 +73,7 @@ npm i @intuio/medusa-plugin-klaviyo
 
 ## 💬 Let's Connect
 We’re building this in public at Intuio Software Labs — a premium product studio focused on ecommerce and open-source innovation.
-☕ Like the plugin? Buy us a coffee or support our efforts!
+☕ Like the plugin? Buy us a coffee or support our efforts : [Donate here](https://buymeacoffee.com/intuio)
 
 ### 👥 Collaborate With Us
 We’re looking for contributors, collaborators, and ecommerce founders to partner with. If you’re doing something cool with Medusa or want to build the next big thing, reach out!
